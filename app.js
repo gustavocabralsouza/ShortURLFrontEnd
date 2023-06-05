@@ -41,6 +41,7 @@ function renderResults(data) {
   `
 
 }
+// teste 
 
 function copyToClipboard() {
   const copyTextElement = document.querySelector('.shorted p')
